@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alismee2
+- 👀 I’m interested in solving real time problems
+- 🌱 I’m currently learning about the blockchain
